@@ -1,6 +1,6 @@
 Overview
 
-This project is a simple text analysis tool designed to read a text file, analyze its contents, and provide various statistics about the words and characters within the file. The program is divided into two main components: the main script and a helper module named words.py.
+This project is a text analysis tool designed to read a text file, analyze its contents, and provide various statistics about the words and characters within the file. The program is divided into two main components: the main script and a helper module named words.py.
 
 Features
 
